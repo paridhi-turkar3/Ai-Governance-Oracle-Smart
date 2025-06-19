@@ -37,3 +37,6 @@ Our vision is to create the next generation of decentralized governance by seaml
 - **Emergency Governance**: Fast-track governance mechanisms for critical decisions with enhanced AI oversight
 
 - Contract address: 0x3763208cedfd73c819fc69a83b195f4eeeef0252
+- ![Screenshot (1)](https://github.com/user-attachments/assets/4ff1246f-4ffa-42a8-95e2-60f595180f11)
+
+- 
