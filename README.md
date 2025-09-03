@@ -1,6 +1,6 @@
 # AiGovernanceOracle Smart
 
-## Project Description
+## Project Description 
 
 AiGovernanceOracle Smart is a revolutionary decentralized governance system that integrates artificial intelligence to enhance decision-making processes in blockchain-based organizations. This smart contract platform combines traditional voting mechanisms with AI-powered analysis and recommendations, enabling more informed and efficient governance decisions. The system allows for proposal creation, community voting, and AI-driven insights to guide stakeholders toward optimal outcomes.
 
